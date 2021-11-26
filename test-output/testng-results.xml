@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-24T10:49:02 IST" name="Default suite" finished-at="2021-11-24T10:53:42 IST" duration-ms="279866">
+    <groups>
+    </groups>
+    <test started-at="2021-11-24T10:49:02 IST" name="Default test" finished-at="2021-11-24T10:53:42 IST" duration-ms="279866">
+      <class name="com.testng.org.Simple_Annotation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:49:02 IST" name="setUp" finished-at="2021-11-24T10:49:02 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="driverLaunch()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:49:02 IST" name="driverLaunch" finished-at="2021-11-24T10:49:25 IST" duration-ms="22626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverLaunch -->
+        <test-method is-config="true" signature="url()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:49:25 IST" name="url" finished-at="2021-11-24T10:49:46 IST" duration-ms="21246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:49:46 IST" name="homePage" finished-at="2021-11-24T10:49:58 IST" duration-ms="11855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="Laptop()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:49:58 IST" name="Laptop" finished-at="2021-11-24T10:50:04 IST" duration-ms="6047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Laptop -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:04 IST" name="refresh" finished-at="2021-11-24T10:50:05 IST" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:05 IST" name="homePage" finished-at="2021-11-24T10:50:19 IST" duration-ms="13897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:19 IST" name="earPhones" finished-at="2021-11-24T10:50:32 IST" duration-ms="12692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:32 IST" name="refresh" finished-at="2021-11-24T10:50:32 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:32 IST" name="homePage" finished-at="2021-11-24T10:50:45 IST" duration-ms="13495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:45 IST" name="earPhones" finished-at="2021-11-24T10:50:52 IST" duration-ms="7071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:52 IST" name="refresh" finished-at="2021-11-24T10:50:53 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:50:53 IST" name="homePage" finished-at="2021-11-24T10:51:07 IST" duration-ms="14707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:07 IST" name="earPhones" finished-at="2021-11-24T10:51:16 IST" duration-ms="8424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:16 IST" name="refresh" finished-at="2021-11-24T10:51:16 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:16 IST" name="homePage" finished-at="2021-11-24T10:51:28 IST" duration-ms="12088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:28 IST" name="earPhones" finished-at="2021-11-24T10:51:35 IST" duration-ms="7308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:35 IST" name="refresh" finished-at="2021-11-24T10:51:35 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:35 IST" name="homePage" finished-at="2021-11-24T10:51:46 IST" duration-ms="10729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:46 IST" name="earPhones" finished-at="2021-11-24T10:51:51 IST" duration-ms="4989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:51 IST" name="refresh" finished-at="2021-11-24T10:51:51 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:51:51 IST" name="homePage" finished-at="2021-11-24T10:52:00 IST" duration-ms="8673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:00 IST" name="earPhones" finished-at="2021-11-24T10:52:06 IST" duration-ms="5468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:06 IST" name="refresh" finished-at="2021-11-24T10:52:06 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:06 IST" name="homePage" finished-at="2021-11-24T10:52:16 IST" duration-ms="9711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:16 IST" name="earPhones" finished-at="2021-11-24T10:52:21 IST" duration-ms="4861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:21 IST" name="refresh" finished-at="2021-11-24T10:52:21 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:21 IST" name="homePage" finished-at="2021-11-24T10:52:28 IST" duration-ms="7472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:28 IST" name="earPhones" finished-at="2021-11-24T10:52:34 IST" duration-ms="5819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:34 IST" name="refresh" finished-at="2021-11-24T10:52:34 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:34 IST" name="homePage" finished-at="2021-11-24T10:52:43 IST" duration-ms="8780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:43 IST" name="earPhones" finished-at="2021-11-24T10:52:48 IST" duration-ms="5517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:48 IST" name="refresh" finished-at="2021-11-24T10:52:49 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:49 IST" name="homePage" finished-at="2021-11-24T10:52:56 IST" duration-ms="7721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="earPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:52:56 IST" name="earPhones" finished-at="2021-11-24T10:53:02 IST" duration-ms="5536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:02 IST" name="refresh" finished-at="2021-11-24T10:53:02 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:02 IST" name="homePage" finished-at="2021-11-24T10:53:10 IST" duration-ms="7680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="headPhones()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:10 IST" name="headPhones" finished-at="2021-11-24T10:53:16 IST" duration-ms="6309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headPhones -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:16 IST" name="refresh" finished-at="2021-11-24T10:53:16 IST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:16 IST" name="homePage" finished-at="2021-11-24T10:53:26 IST" duration-ms="9388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="searchFunction()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:26 IST" name="searchFunction" finished-at="2021-11-24T10:53:34 IST" duration-ms="8583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFunction -->
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:34 IST" name="refresh" finished-at="2021-11-24T10:53:35 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method is-config="true" signature="cookies()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:35 IST" name="cookies" finished-at="2021-11-24T10:53:42 IST" duration-ms="7736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.testng.org.Simple_Annotation@16610890]" started-at="2021-11-24T10:53:43 IST" name="browserClose" finished-at="2021-11-24T10:53:45 IST" duration-ms="2094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.testng.org.Simple_Annotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
